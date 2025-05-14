@@ -30,4 +30,4 @@ This project provides a classic two-player XO experience with a graphical interf
    
 or 
 
-    **Run** the header file (x64/Debug\tictac.h)
+   Run the header file (x64/Debug\tictac.h)
