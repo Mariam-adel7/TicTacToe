@@ -1,0 +1,3 @@
+C:\Users\Inspiron 15\source\repos\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Inspiron 15\source\repos\Project1\Project1\x64\Debug\Project1.tictac.resources
+C:\Users\Inspiron 15\source\repos\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
